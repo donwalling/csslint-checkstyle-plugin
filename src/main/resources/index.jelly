@@ -1,0 +1,5 @@
+<div>
+  This plug-in collects the <a href="http://csslint.net/">CSSLint</a> analysis
+  results of the project modules in <a href="http://checkstyle.sourceforge.net/">Checkstyle</a>
+  format and visualizes the found warnings.
+</div>
