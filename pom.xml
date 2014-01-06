@@ -11,7 +11,7 @@
   <artifactId>csslint-checkstyle</artifactId>
   <packaging>hpi</packaging>
   <name>CSSLint Checkstyle Plug-in</name>
-  <version>0.1</version>
+  <version>0.2-SNAPSHOT</version>
 <!-- <url>http://wiki.jenkins-ci.org/x/GYCGAQ</url>  -->
   <description>This plug-in generates the trend report for
     JSLint reports in Checkstyle format. CSSLint is an open
@@ -60,9 +60,9 @@
   </dependencies>
 
   <scm>
-    <connection>scm:git:git@github.com/dwalling/${project.artifactId}-plugin.git</connection>
-    <developerConnection>scm:git:git@github.com:dwalling/${project.artifactId}-plugin.git</developerConnection>
-    <url>https://github.com/dwalling/${project.artifactId}-plugin</url>
+    <connection>scm:git:git@github.com:donwalling/${project.artifactId}-plugin.git</connection>
+    <developerConnection>scm:git:git@github.com:donwalling/${project.artifactId}-plugin.git</developerConnection>
+    <url>https://github.com/donwalling/${project.artifactId}-plugin</url>
   </scm>
 
   <repositories>
